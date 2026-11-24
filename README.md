@@ -1,8 +1,6 @@
 # Real Life Patch Notes — The Comedy Changelog
 
-**v2.3.1** — Fixed a race condition where crossing a doorway evicted the current task from working memory before intent could be flushed to disk.
-
-A comedy patch note for the human condition: walking through a doorway triggers the "event boundary" effect, wiping short-term memory. This release finally persists your intent across room transitions.
+A comedy patch note for a bug in human biology: **v2.1.9** finally kills the nightly cron job that replays your most humiliating memory at 03:00. Scheduled shaming now respects the do-not-disturb flag.
 
 [https://make.fun](https://make.fun)
 
